@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.searchIcon{
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
